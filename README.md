@@ -9,11 +9,11 @@ Textbook: [Linear Algebra, 4th Edition, Stehpehn H. Friedberg, Arnold J. Insel, 
 Textbook Chapter Exercises:
 > - **Chapter 01 Exercises** - Vector Spaces (contain solutions 1.3-1.7, p.1-15)
 > - **Chapter 02 Exercises** - Linear Transformations and Matrices (contain solutions 2.1-2.7, p.16-53)
-> - **Chapter 03 Exercises** - Elementary Matrix Operations and Systems of Linear Equations <br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (contain solutions 3.1-3.4, p.53-59)
-> - **Chapter 04 Exercises** - Determinants (contain solution 4.1-4.4, p.60-67)
-> - **Chapter 05 Exercises** - Diagonalization (contain solution 5.1-5.4, p.67-99)
-> - **Chapter 06 Exercises** - Inner Product Spaces (contain solution 6.1-6.2, p.99-116)
-> - **Chapter 07 Exercises** - Canonical Forms (only contain solution 7.1 p.117-122)
+> - **Chapter 03 Exercises** - Elementary Matrix Operations and Systems of Linear Equations <br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (contain solutions 3.1-3.4, p.53-59)
+> - **Chapter 04 Exercises** - Determinants (contain solutions 4.1-4.4, p.60-67)
+> - **Chapter 05 Exercises** - Diagonalization (contain solutions 5.1-5.4, p.67-99)
+> - **Chapter 06 Exercises** - Inner Product Spaces (contain solutions 6.1-6.2, p.99-116)
+> - **Chapter 07 Exercises** - Canonical Forms (only contain solutions 7.1, p.117-122)
 
 ## Reference or Resource
 - Textbook: [Linear Algebra, 4th Edition, Stehpehn H. Friedberg, Arnold J. Insel, Lawrence E. Spence](https://www.amazon.com/Linear-Algebra-4th-Stephen-Friedberg/dp/0130084514)
