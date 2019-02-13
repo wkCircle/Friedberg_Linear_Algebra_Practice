@@ -18,5 +18,5 @@ Textbook Chapter Exercises:
 ## Reference or Resource
 - Textbook: [Linear Algebra, 4th Edition, Stehpehn H. Friedberg, Arnold J. Insel, Lawrence E. Spence](https://www.amazon.com/Linear-Algebra-4th-Stephen-Friedberg/dp/0130084514)
 - There are also other non-official solution manuals shown below that I didn't refer to (so my solutions should provide alternative directions to users): 
-	- 1 [Solutions to Lienar Algebra 4e, Friedberg et al.](https://jlch3554.files.wordpress.com/2012/11/la-solution-2011-7.pdf) (Open source)
-	- 2 [Slader.com Cheatsheet](https://www.slader.com/textbook/9780130084514-linear-algebra-4th-edition/)
+	1. [Solutions to Lienar Algebra 4e, Friedberg et al.](https://jlch3554.files.wordpress.com/2012/11/la-solution-2011-7.pdf) (Open source)
+	2. [Slader.com Cheatsheet](https://www.slader.com/textbook/9780130084514-linear-algebra-4th-edition/)
