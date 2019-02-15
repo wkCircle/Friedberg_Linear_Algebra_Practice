@@ -1,5 +1,5 @@
 ## Do NOT click the above file link.
-- Click [here](https://wkCircle.github.io/Friedberg_Linear_Algebra_Practice/) instead to view My Solution to Friedberg Linear Algebra 4e.pdf. (**faster!**)
+- Click [here](https://wkCircle.github.io/Friedberg_Linear_Algebra_Practice/) instead to view My Solution to Friedberg Linear Algebra 4e.pdf. **(faster!)**
 
 ## My solutions to almost all exercises of the textbook problems (till Section 7.1).
 Textbook: [Linear Algebra, 4th Edition, Stehpehn H. Friedberg, Arnold J. Insel, Lawrence E. Spence](https://www.amazon.com/Linear-Algebra-4th-Stephen-Friedberg/dp/0130084514) <br />
